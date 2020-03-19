@@ -1,2 +1,1 @@
-# IBM-Capstone-project
-Coursera 
+# Coursera_Capstone
